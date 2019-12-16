@@ -1,7 +1,7 @@
 # OpenHAB2 OpenTherm Gateway binary
 Binaries for the OpenTherm Gateway binding for OpenHAB2
 
-This binding is still under development. For more info and sources, please see [https://github.com/ArjenKorevaar/openhab2-addons](https://github.com/ArjenKorevaar/openhab2-addons/tree/master/addons/binding/org.openhab.binding.openthermgateway)
+This binding is still under development. For more info, please see [https://community.openhab.org/t/39160](https://community.openhab.org/t/39160)
 
 
 ## Instructions
