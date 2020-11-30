@@ -1,5 +1,5 @@
 # OpenHAB2 Addons Binary
-This repository is used to publish compiled openHAB bindings, usually from (openhab-addons)[https://github.com/ArjenKorevaar/openhab-addons]
+This repository is used to publish compiled openHAB bindings, usually from [openhab-addons](https://github.com/ArjenKorevaar/openhab-addons)
 
 ## Instructions
 Download the .jar file and place it in the addons folder of openHAB.
