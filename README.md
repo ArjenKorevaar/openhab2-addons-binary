@@ -1,4 +1,4 @@
-# openHAB2 addons binary
+# openHAB addons binary
 This repository is used to publish compiled openHAB bindings, usually from [openhab-addons](https://github.com/ArjenKorevaar/openhab-addons)
 
 ## Instructions
